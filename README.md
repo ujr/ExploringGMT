@@ -41,6 +41,9 @@ here: [Les Révoltés de la Bounty, p. 30][bountymap] (PDF).
 
 I use GMT 6.x **modern mode**.
 
+Exercise 1: [Map of Greece](./Greece.md) with a small inset
+for overview.
+
 More to come as I go on.
 
 

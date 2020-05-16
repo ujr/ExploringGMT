@@ -3,5 +3,8 @@
 .POSIX:
 .SUFFIXES:
 
-all:
-	@echo "Nothing yet"
+all: Greece
+
+Greece: Greece.pdf
+Greece.pdf: Greece.sh
+	./Greece.sh
